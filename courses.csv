@@ -1,0 +1,11 @@
+course_id,course_name,faculty,hours,type
+1,Artificial Intelligence,Dr Sharma,2,core
+2,Data Structures,Dr Singh,1,core
+3,Database Management Systems,Dr Verma,2,core
+4,Operating Systems,Dr Gupta,1,core
+5,Computer Networks,Dr Mehta,1,core
+6,Software Engineering,Dr Khan,2,core
+7,Mathematics for Computing,Dr Patel,1,elective
+8,Economics for Engineers,Dr Roy,1,elective
+9,Soft Skills,Dr Sharma,2,core
+10,Project Lab,Dr Khan,3,core

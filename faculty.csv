@@ -1,0 +1,9 @@
+faculty_id,name,available_slots
+1,Dr Sharma,"Mon1,Tue2,Wed1,Thu3,Fri2"
+2,Dr Singh,"Mon2,Tue3,Thu1,Fri4"
+3,Dr Verma,"Mon3,Wed2,Fri1"
+4,Dr Gupta,"Tue2,Thu2,Fri3"
+5,Dr Mehta,"Mon1,Wed3,Thu4"
+6,Dr Khan,"Tue3,Wed1,Fri2"
+7,Dr Patel,"Mon2,Thu1,Fri3"
+8,Dr Roy,"Wed2,Thu2,Fri1"
